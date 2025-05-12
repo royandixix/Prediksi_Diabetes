@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+speechrecognition
+librosa
+scikit-learn
+joblib
+numpy
